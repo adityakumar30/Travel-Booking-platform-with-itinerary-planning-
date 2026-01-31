@@ -1,0 +1,2 @@
+# Travel-Booking-platform-with-itinerary-planning-
+This project is a desktop-based Travel Booking Platform developed using C# and Windows Form. It provide features such as user login, travel booking, booking management, destination viewing through an intuitive dashboard. The application follows an event-driven architecture and focuses on clean UI design &amp; real-world booking workflow implementation.
