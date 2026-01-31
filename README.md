@@ -52,6 +52,21 @@ TravelBookingSystem2
 - Payment gateway integration
 - Role-based access (Admin/User)
 
+## 📸 Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Booking Page
+![Booking](screenshots/booking.png)
+
+### My Bookings
+![My Bookings](screenshots/my-bookings.png)
+
+
 ## 👤 Author
 **Aditya Kumar**  
 Computer Science Engineering Student
